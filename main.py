@@ -10,7 +10,7 @@ metodos = [
     ("Matriz NxN", "metodo_6_nxn"),           #Pelon
     ("Euler", "metodo_7_euler"),              #Lexus
     ("Serie Aritmética", "metodo_11_serie_aritmetica"), #Marco
-    ("Secante", "metodo_8_secante"),
+    ("Factorial", "metodo_8_factorial"), #Ricardo
     ("Simpson", "metodo_9_simpson"),
     ("Romberg", "metodo_10_romberg"),
 ]
